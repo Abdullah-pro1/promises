@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.imageone{background-image: url('https://tse2.mm.bing.net/th?id=OIP.7oNQfWHZ6NLvFiMW_9a3awHaFa&pid=Api&P=0&h=180');}
+
+.imagetwo{background-image: url('https://tse2.mm.bing.net/th?id=OIP.HG3ijzLnNLCX0lwVgYlxJgHaD4&pid=Api&P=0&h=180');}
+
+.imagethree{background-image: url('https://tse1.mm.bing.net/th?id=OIP.-jKo-_FGq3vZ4MgIxW4JEAHaHa&pid=Api&P=0&h=180');}
+.imagefour{background-image: url('https://tse3.mm.bing.net/th?id=OIP.7iMzFl3fmwynHzd8VnryDwHaFB&pid=Api&P=0&h=180');}
+.imagefive{background-image: url('https://tse2.mm.bing.net/th?id=OIP.v-G-ZCTpuqd0lyHv8oPtawHaJ4&pid=Api&P=0&h=180');}
+.imagesix{background-image: url('https://tse4.mm.bing.net/th?id=OIP.3Ul7yeoeXd5-uZgNDYagDgHaHa&pid=Api&P=0&h=180');}
+.imageseven{background-image: url('https://tse4.mm.bing.net/th?id=OIP.kaZkSwZVBLLPTwS4pEGkCwHaE3&pid=Api&P=0&h=180');}
+
+
+.imageeight{background-image: url('https://tse2.mm.bing.net/th?id=OIP.pjjhR9kD8ecACfPM_tCY1AHaKu&pid=Api&P=0&h=180');}
+.imagenine{background-image: url('https://tse1.mm.bing.net/th?id=OIP.mckT6my7Lva4gVRuJCVHmgHaGL&pid=Api&P=0&h=180');}
